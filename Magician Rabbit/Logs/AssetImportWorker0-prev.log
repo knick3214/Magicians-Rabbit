@@ -15,11 +15,11 @@ D:/Unity_Projects/MagiciansRabbitGit/Magician Rabbit
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-49232
+56563
 Successfully changed project path to: D:/Unity_Projects/MagiciansRabbitGit/Magician Rabbit
 D:/Unity_Projects/MagiciansRabbitGit/Magician Rabbit
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 32.08 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 32.63 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.6f1 (8a2143876886)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
@@ -38,48 +38,49 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56848
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56344
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.000848 seconds.
+Registered in 0.006749 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 24.86 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 25.30 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.012 seconds
+- Completed reload, in  7.846 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000566 seconds.
+Registered in 0.002127 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.834 seconds
+- Completed reload, in  0.915 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
-Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1121 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 58.7 MB.
 System memory in use after: 58.7 MB.
 
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1562.
-Total: 9.940745 ms (FindLiveObjects: 0.179441 ms CreateObjectMapping: 0.063897 ms MarkObjects: 9.606363 ms  DeleteObjects: 0.089058 ms)
+Total: 2.302600 ms (FindLiveObjects: 0.188380 ms CreateObjectMapping: 0.108260 ms MarkObjects: 1.881147 ms  DeleteObjects: 0.114551 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes/MenuScene.unity
-  artifactKey: Guid(ab9677adae7c2434497f523bfd2d1b75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/MenuScene.unity using Guid(ab9677adae7c2434497f523bfd2d1b75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11f27539abacc57c9fee3f7bba0f2851') in 0.009050 seconds
-  Import took 0.011264 seconds .
+  path: Assets/UI/Group 34193.png
+  artifactKey: Guid(a880f9c4eb8c96a44818b89bab44b3cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Group 34193.png using Guid(a880f9c4eb8c96a44818b89bab44b3cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ecb1524b392aa335e0d0502d866b36c') in 0.136287 seconds
+  Import took 0.138581 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
